@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍💻 About Me
-I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="20" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
+I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="100" height="40" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
 
 Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
 # 🔥 News
