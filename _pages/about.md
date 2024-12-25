@@ -21,8 +21,8 @@ I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="50" hei
 
 Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
 # 🔥 News
-- *2024.06*: One paper accepted by ICIP 2024.
-- *2024.04*: One paper accepted by IEEE T-IV.
+- *2024.06*: &nbsp;🎉🎉 One paper accepted by ICIP 2024.
+- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE T-IV.
 
 # 📝 Publications 
 
@@ -75,3 +75,6 @@ Keywords:
 - *2024.05 - 2024.11*, [DiDi, L lab group](https://www.didiglobal.com/), Beijing.
 
 # ❤ Acknowledgments
+yes
+# 🏠 Hobbies
+hello
