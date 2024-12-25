@@ -16,15 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-啥也不是
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🧑‍💻 About Me
+I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="20" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
@@ -35,11 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Sheng Luo**, Yi Zhou
 
-[**GitHub**](https://github.com/rolsheng/OpenDet-D) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/rolsheng/OpenDet-D)
 
 Keywords:
-- Open set object detection
 - Continual learning
+- Open set object detection
 - Visual Foundation Model
 </div>
 </div>
@@ -47,12 +44,15 @@ Keywords:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/delving.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://github.com/rolsheng/MM-VUFM4DS)
+[Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321)
 
 **Sheng Luo**, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen, Ruiqi Wu, Shuyi Geng, Yi Zhou, et al.
 
-[**GitHub**](https://github.com/rolsheng/OpenDet-D) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**GitHub**](https://github.com/rolsheng/MM-VUFM4DS) 
+Keywords:
+- Unified multi-modal multi-task learning models
+- Prompting techniques for road scene understanding
+- Autogressive and diffusion-based generative model for synthetic data
 </div>
 </div>
 
@@ -71,3 +71,5 @@ Keywords:
 
 # 💻 Internships
 - *2024.05 - 2024.11*, [DiDi, L lab group](https://www.didiglobal.com/), Beijing.
+
+# ❤ Acknowledgments
