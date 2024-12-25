@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍💻 About Me
-I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
+I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;">, where I will focus on promoting the reasoning capabilities of large language models and developing travel-related intelligent agents.
 
 Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
 # 🔥 News
@@ -26,7 +26,7 @@ Currently, I am a third-year master's student in Southeast University, under the
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/opendet-d.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/opendet-d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenDet-D:Open World Object Detection Via Cooperative Foundation Models for Driving Scenes](https://ieeexplore.ieee.org/document/10647822) 
@@ -42,7 +42,7 @@ Keywords:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/delving.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/delving.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://ieeexplore.ieee.org/abstract/document/10540321)
