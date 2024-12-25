@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍💻 About Me
-I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="100" height="40" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
+I am about to join DiDi <img src="images/didilogo.png" alt="DiDi" width="50" height="30" style="vertical-align:middle;">, where I will focus on enhancing the reasoning capabilities of large language models (LLMs) and developing travel-related intelligent agents.
 
 Currently, I am a third-year master's student in Southeast University, under the supervision of Associate Professor [Yi Zhou](https://cs.seu.edu.cn/yizhou/main.htm). My research interests include continual train, open-world learning, and computer vision. Prior to this, I received my bachelor's degree from the School of Computer and Artificial Intelligence in ZhengZhou University.
 # 🔥 News
-
+- *2024.06*: One paper accepted by ICIP 2024.
+- *2024.04*: One paper accepted by IEEE T-IV.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/opendet-d.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OpenDet-D:Open World Object Detection Via Cooperative Foundation Models for Driving Scenes](https://ieeexplore.ieee.org/document/10647822)
+[OpenDet-D:Open World Object Detection Via Cooperative Foundation Models for Driving Scenes](https://ieeexplore.ieee.org/document/10647822) 
 
 **Sheng Luo**, Yi Zhou
 
@@ -49,6 +50,7 @@ Keywords:
 **Sheng Luo**, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen, Ruiqi Wu, Shuyi Geng, Yi Zhou, et al.
 
 [**GitHub**](https://github.com/rolsheng/MM-VUFM4DS) 
+
 Keywords:
 - Unified multi-modal multi-task learning models
 - Prompting techniques for road scene understanding

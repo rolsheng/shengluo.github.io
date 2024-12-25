@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sheng Luo(罗胜Rosen)"
-description              : "Sheng Luo's academic website"
+title                    : "Sheng Luo (罗胜Rosen)"
+description              : "Master in Southeast University. Focusing on computer vision and deep learning."
 repository               : "rolsheng/shengluo.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Sheng Luo(罗胜)"
+  name             : "Sheng Luo (罗胜Rosen)"
   avatar           : "images/picture.jpg"
-  bio              : "Master in Southeast University(SEU)"
+  bio              : "Southeast University(SEU)"
   location         : "Nanjing, China"
   googlescholar    : "https://scholar.google.com/citations?user=F352rVMAAAAJ&hl=zh-CN"
-  email            : "Shengluo@seu.edu.cn"
+  email            : "ieluosheng@163.com"
   orcid            : "https://orcid.org/0009-0000-0917-7011"
-  github            : "https://github.com/rolsheng"
+  github           : "https://github.com/rolsheng"
 
 
 
