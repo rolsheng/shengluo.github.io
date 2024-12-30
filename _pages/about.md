@@ -25,7 +25,6 @@ Currently, I am a third-year master's student in Southeast University, under the
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE T-IV.
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/opendet-d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,14 +66,10 @@ Keywords:
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Master, [Department of School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
+- *2023.06 - 2025.06 (now)*, Master, [School of Comupter Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
+- *2022.09 - 2023.06*, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://szxq.seu.edu.cn/), Suzhou.
 - *2018.09 - 2022.06*, Bachelor, [Department of School of Computer and Artificial Intelligence](https://www7.zzu.edu.cn/csai/), [ZhengZhou University](https://www.zzu.edu.cn/), Zhengzhou.
 - *2015.09 - 2018.06*, [No.1 Middle School Yiyang City](http://www.hnyysyz.com/Index.aspx), Yiyang.
 
 # 💻 Internships
 - *2024.05 - 2024.11*, [DiDi, L lab group](https://www.didiglobal.com/), Beijing.
-
-# ❤ Acknowledgments
-yes
-# 🏠 Hobbies
-hello

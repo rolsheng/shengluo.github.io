@@ -13,7 +13,9 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Sheng Luo\n(罗胜Rosen)"
+  name             : "Sheng Luo
+                      <br>
+                      (罗胜Rosen)"
   avatar           : "images/picture.jpg"
   bio              : "Southeast University(SEU)"
   location         : "Nanjing, China"
